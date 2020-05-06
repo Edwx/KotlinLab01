@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="pe.gob.qw.proveedores.ui.NewRegisterActivity">
+    <item
+        android:id="@+id/action_about"
+        android:icon="@drawable/ic_help_black_24dp"
+        android:title="@string/help_menu_title"
+        app:showAsAction="ifRoom" />
+</menu>
